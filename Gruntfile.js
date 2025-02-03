@@ -1,5 +1,6 @@
 'use strict';
 
+// test
 const path = require('path');
 const nconf = require('nconf');
 
